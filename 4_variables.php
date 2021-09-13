@@ -1,7 +1,7 @@
 <?php
   $string = "Hello world!";
-  $integer = 5;
-  $float = 10.5;
+  $integer = 23;
+  $float = 23.4;
   $boolean = TRUE;
   $null = null;
 ?>
