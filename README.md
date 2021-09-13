@@ -79,6 +79,6 @@
 <p>We assure you that you will not find any problem in this PHP tutorial. But if there is any mistake or error, please post the error in the contact form.</p>
 <hr>
 <p><strong>Help Of:</strong> <br>
-<a href="https://www.javatpoint.com/"><img height="50px"  src="https://static.javatpoint.com/images/logo/jtp_logo.png" /></a>
+<a href="https://www.javatpoint.com/"><img height="50px"  src="https://static.javatpoint.com/images/logo/jtp_logo.png" /></a><br>
 <a href="https://www.w3schools.com/php/"><img height="50px" src="https://cdn.icon-icons.com/icons2/622/PNG/512/w3-logo_icon-icons.com_57055.png" /></a>
 </p>
