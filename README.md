@@ -1,6 +1,3 @@
-
-<table>
-<tbody><tr><td>
 <h1 class="h1">PHP Tutorial</h1>
 <p>PHP tutorial for beginners and professionals provides in-depth knowledge of PHP scripting language. Our PHP tutorial will help you to learn PHP scripting language easily.</p>
 <p>This PHP tutorial covers all the topics of PHP such as introduction, control statements, functions, array, string, file handling, form handling, regular expression, date and time, object-oriented programming in PHP, math, PHP MySQL, PHP with Ajax, PHP with jQuery and PHP with XML.</p>
