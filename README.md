@@ -78,4 +78,4 @@
 <h2 class="h2">Problem</h2>
 <p>We assure you that you will not find any problem in this PHP tutorial. But if there is any mistake or error, please post the error in the contact form.</p>
 <hr>
-<p><strong>Courtesy:</strong> <a href="https://www.javatpoint.com/">Javatpoint</a></p>
+<p><strong>Courtesy:</strong> <a href="https://www.javatpoint.com/"><img src="https://static.javatpoint.com/images/logo/jtp_logo.png" /></a></p>
